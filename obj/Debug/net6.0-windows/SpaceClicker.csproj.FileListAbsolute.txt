@@ -1,0 +1,17 @@
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\bin\Debug\net6.0-windows\SpaceClicker.exe
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\bin\Debug\net6.0-windows\SpaceClicker.deps.json
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\bin\Debug\net6.0-windows\SpaceClicker.runtimeconfig.json
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\bin\Debug\net6.0-windows\SpaceClicker.dll
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\bin\Debug\net6.0-windows\ref\SpaceClicker.dll
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\bin\Debug\net6.0-windows\SpaceClicker.pdb
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.csproj.AssemblyReference.cache
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.SpaceForm.resources
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.csproj.GenerateResource.cache
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.AssemblyInfoInputs.cache
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.AssemblyInfo.cs
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.csproj.CoreCompileInputs.cache
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.dll
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\ref\SpaceClicker.dll
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.pdb
+C:\Users\Tree Smothy\OneDrive\Personal Projects\HackAThons\SpaceClicker\SpaceClicker\obj\Debug\net6.0-windows\SpaceClicker.genruntimeconfig.cache
